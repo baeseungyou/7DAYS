@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8db5b0d5b15e34e4c8688c4e31f0f3d4, type: 3}
+  m_Name: Axe Data
+  m_EditorClassIdentifier: 
+  itemName: Axe
+  icon: {fileID: 21300000, guid: e1f9f466f739fa544a21dcaf8698d597, type: 3}
+  itemType: 1
+  healAmount: 0
+  damage: 30
+  weaponPrefab: {fileID: 6183487224882270888, guid: 8acbee537e9a5db4fb269083b75848a6, type: 3}
+  equipPosition: {x: 0, y: 0, z: 0}
+  equipRotation: {x: 0, y: -90, z: -25}
+  equipScale: {x: 0.5, y: 0.5, z: 0.5}
+  equipSound: {fileID: 8300000, guid: 0e6bd02b47e0ed449ba78b3f9e9033a3, type: 3}
+  eatSound: {fileID: 0}
